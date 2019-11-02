@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\bzl\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\squarematrix.hpp(12): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  ConsoleApplication1.vcxproj -> C:\Users\BZL\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\BZL\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
