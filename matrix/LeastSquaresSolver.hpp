@@ -9,7 +9,7 @@
  * R*x = Q^T*b
  * This is efficiently solved for x because of the upper triangular property of R.
  *
- * @author Bart Slinger <bartslinger@gmail.com>
+ * @author Benjamin
  */
 
 #pragma once
