@@ -10,7 +10,7 @@
  * Likewise, a matrix instance of this class also represents a coordinate transformation
  * from frame 2 to frame 1.
  *
- * @author James Goppert <james.goppert@gmail.com>
+ * @author Benjamin
  */
 
 #pragma once
