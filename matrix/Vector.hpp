@@ -3,7 +3,7 @@
  *
  * Vector class.
  *
- * @author James Goppert <james.goppert@gmail.com>
+ * @author Benjamin
  */
 
 #pragma once
