@@ -10,7 +10,7 @@
  * 2) We rotate about the newly created Y' axis by an angle of _theta.
  * 3) We rotate about the newly created X'' axis by an angle of _phi.
  *
- * @author James Goppert <james.goppert@gmail.com>
+ * @author Benjamin
  */
 
 #pragma once
