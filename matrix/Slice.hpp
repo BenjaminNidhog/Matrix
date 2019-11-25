@@ -3,7 +3,7 @@
  *
  * A simple matrix template library.
  *
- * @author Julian Kent < julian@auterion.com >
+ * @author Benjamin
  */
 
 #pragma once
