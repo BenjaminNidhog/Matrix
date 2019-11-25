@@ -3,7 +3,7 @@
  *
  * Defines conversion of matrix to scalar.
  *
- * @author James Goppert <james.goppert@gmail.com>
+ * @author Benjamin
  */
 
 #pragma once
