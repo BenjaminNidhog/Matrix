@@ -15,7 +15,6 @@ int integrate_rk4(
     Matrix<Type, M, 1> & y1
 )
 {
-    // https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods
     Type t1 = t0;
     y1 = y0;
     Type h = h0;
