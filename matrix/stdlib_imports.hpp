@@ -4,7 +4,7 @@
  * This file is needed to shadow the C standard library math functions with ones provided by the C++ standard library.
  * This way we can guarantee that unwanted functions from the C library will never creep back in unexpectedly.
  *
- * @author Pavel Kirienko <pavel.kirienko@zubax.com>
+ * @author Benjamin
  */
 
 #pragma once
