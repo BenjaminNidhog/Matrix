@@ -3,7 +3,7 @@
  *
  * A simple matrix template library.
  *
- * @author James Goppert <james.goppert@gmail.com>
+ * @author Benjamin
  */
 
 #pragma once
