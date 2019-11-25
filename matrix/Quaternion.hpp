@@ -23,7 +23,7 @@
  * represents the real part, thus, a quaternion representing a zero-rotation
  * is defined as (1,0,0,0).
  *
- * @author James Goppert <james.goppert@gmail.com>
+ * @author Benjamin
  */
 
 #pragma once
